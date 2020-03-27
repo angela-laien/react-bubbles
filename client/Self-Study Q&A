@@ -1,0 +1,18 @@
+1. Explain what a token is used for.
+
+    A token is used for issuing authentication when users input the correct information.
+
+2. What steps can you take in your web apps to keep your data secure?
+
+    The key step will be requiring users to sign in to have a token before viewing the data.
+
+3. Describe how web servers work.
+
+    Web server serve users by sending out users' requested web pages data.
+
+4. Which HTTP methods can be mapped to the CRUD acronym that we use when interfacing with APIs/Servers.
+
+     C - Create that goes with post request.
+     R - Read that goes with get request.
+     U - Update that goes with put request.
+     D - Delete that goes with delete request.
